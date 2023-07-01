@@ -1,0 +1,1 @@
+SELECT * FROM {{ref('vw_sales_ptbr')}}
